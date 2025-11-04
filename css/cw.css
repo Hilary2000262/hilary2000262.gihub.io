@@ -1,0 +1,32 @@
+#heading1{
+    color: green
+    background-color aquamarine;
+}
+
+.text-pink{
+    color: rgb(196, 143, 152);
+}
+
+.text-bacground-yellow{
+    background-color: yellow;
+}
+
+body{ 
+    background-image: url(../assets/img/pic.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    color: orange
+}
+
+h1{
+    font-size: 3.8rem;
+}
+
+.text-para{
+    font-size: 1.8rem
+    text-align: justify;
+    text-align-last: left;
+    text-decoration: underline;
+    text-transaformation: capitalize;
+}
