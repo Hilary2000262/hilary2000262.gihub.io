@@ -81,7 +81,7 @@ header{
 }
 
 .hero-copy h1{
-    font-size:59.72px;
+    font-size:47.78px;
     font-weight:600;
     color: rgb(24, 26, 132);
     line-height: 1.7;
@@ -92,7 +92,7 @@ header{
 }
 
 .hero-copy p{
-    font-size:20px;
+    font-size:16px;
     font-weight: 500;
     line-height: 1.7;
     margin-bottom:30px;
@@ -139,13 +139,13 @@ html{
 }
 
 .about-section h2{
-    font-size: 49.77px;
+    font-size: 39.81px;
     font-weight:600;
     margin-bottom: 20px;
 }
 
 .about-section p{
-    font-size: 20px;
+    font-size: 16px;
     color: rgb(85, 85, 85);
     margin-bottom: 15px;
 }
@@ -175,7 +175,7 @@ html{
 }
 
 .education-section h2{
-    font-size: 49.77px;
+    font-size: 39.81px;
     font-weight:600;
     text-align:center;
 }
@@ -224,20 +224,20 @@ html{
     text-align: left;
 }
 
-.timeline-content h5 {
-    font-size: 28.8px;
+.timeline-content h3 {
+    font-size: 33.18px;
     margin-bottom: 5px;
     color: rgb(24, 26, 132);
     font-weight: 600;
 }
 
-.timeline-content h6 {
-    font-size: 24px;
+.timeline-content h4 {
+    font-size: 27.65px;
     margin-bottom: 5px;
     color: rgb(85, 85, 85);
 }
 .timeline-content p {
-    font-size: 20px;
+    font-size: 16px;
     margin-bottom: 10px;
     color: rgb(85, 85, 85);
     font-weight: 500;
@@ -277,7 +277,7 @@ html{
 
 
 .experience-section h2 {
-    font-size: 49.77px;
+    font-size: 39.81px;
     font-weight: 600;
     text-align: center;
     margin-bottom: 40px;
@@ -292,15 +292,15 @@ html{
     padding-left: 30px;
 }
 
-.experience-item h6 {
-    font-size: 24px;
+.experience-item h3 {
+    font-size: 33.18px;
     font-weight: 600;
     color: rgb(24, 26, 132);
     margin-bottom: 5px;
 }
 
 .experience-item ul li {
-  font-size: 20px;
+  font-size: 16px;
   color: rgb(85, 85, 85);
   margin-bottom: 10px;
   line-height: 1.6;
@@ -332,13 +332,13 @@ html{
 }
 
 .skills-section h2{
-    font-size: 49.77px;
+    font-size: 39.81px;
     font-weight:600;
     margin-bottom: 20px;
 }
 
 .skills-section h3{
-    font-size: 41.47px;
+    font-size: 33.18px;
     font-weight:600;
 } 
 
@@ -350,7 +350,7 @@ html{
 }
 
 .skills-section ul li{
-    font-size: 20px;
+    font-size: 16px;
     list-style-position: inside;
 }
 
@@ -363,14 +363,14 @@ html{
 }
 
 .contact-section h2 {
-  font-size: 49.77px;
+  font-size: 39.81px;
   font-weight: 600;
   margin-bottom: 20px;
   color: rgb(24, 26, 132);
 }
 
 .contact-section p {
-  font-size: 20px;
+  font-size: 16px;
   color: rgb(85, 85, 85);
   max-width: 700px;
   margin: 0 auto 30px auto;
@@ -399,7 +399,7 @@ html{
 
 .contact-section i {
   margin-right: 8px;
-  font-size: 20px;
+  font-size: 16px;
   vertical-align: middle;
 }
 
