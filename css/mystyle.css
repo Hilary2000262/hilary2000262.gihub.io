@@ -84,7 +84,7 @@ header{
     font-size:59.72px;
     font-weight:600;
     color: rgb(24, 26, 132);
-    line-height: 1.2;
+    line-height: 1.7;
     margin-bottom:30px;
     margin-left: 40px;
     margin-right:40px;
@@ -132,7 +132,7 @@ html{
     margin: 0;
     padding: 20px 40px;
     text-align: center;
-    background-color: rgb(237, 237, 248);
+    background-color: rgb(212, 212, 230);
     line-height: 1.7;
     font-family: 'Tahoma', sans-serif;
     color: rgb(24, 26, 132)
@@ -167,7 +167,7 @@ html{
     width: 100%;
     padding: 30px 30px;
     margin: 0;
-    background-color: rgb(230, 230, 238);
+    background-color: rgb(222, 222, 240);
     font-family: 'Tahoma', sans-serif;
     line-height: 1.7;
     text-align: left;
@@ -262,7 +262,7 @@ html{
     width: 100%;
     padding: 40px 20px;
     margin: 0;
-    background-color: rgb(202, 202, 223) ;
+    background-color: rgb(172, 172, 193) ;
     font-family: 'Tahoma', sans-serif;
     line-height: 1.7;
     text-align: left;
@@ -324,7 +324,7 @@ html{
     width: 100%;
     padding: 40px 20px;
     margin: 0;
-    background-color: rgb(237, 237, 248);
+    background-color: rgb(202, 202, 230);
     font-family: 'Tahoma', sans-serif;
     line-height: 1.7;
     text-align: center;
@@ -384,7 +384,7 @@ html{
 
 .contact-section ul li {
   margin-bottom: 15px;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .contact-section a {
@@ -399,7 +399,7 @@ html{
 
 .contact-section i {
   margin-right: 8px;
-  font-size: 26px;
+  font-size: 20px;
   vertical-align: middle;
 }
 
@@ -409,4 +409,5 @@ footer{
     padding: 20px 0;
     text-align: center;
     font-family: 'Tahoma', sans-serif;
+    margin:0; 
 }
