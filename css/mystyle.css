@@ -101,9 +101,18 @@ header{
 }
 
 section{
-    scroll-margin-top: 100px;
+    scroll-margin-top: 50px;
 }
 
+html{
+    scroll-padding-top: 60px;
+    scroll-behavior: smooth;
+}
+@media (max-width: 768px){
+    .html{
+        scroll-padding-top: 120px;
+    }
+}
 
 
 .hero{
@@ -163,15 +172,6 @@ section{
     }
 }
 
-html{
-    scroll-padding-top: 60px;
-    scroll-behavior: smooth;
-}
-@media (max-width: 768px){
-    .html{
-        scroll-padding-top: 120px;
-    }
-}
 
 .about-section{
     width: 100%;
