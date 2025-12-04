@@ -30,12 +30,9 @@
     align-items: center;
 }
 
-.brand{
+.brand a{
     font-size: 19.2px;
     font-weight: 600;
-    color: rgb(24, 26, 132);
-}
-.brand a{
     text-decoration: none;
     color: rgb(24, 26, 132);
 }
