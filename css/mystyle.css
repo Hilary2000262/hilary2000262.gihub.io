@@ -9,6 +9,9 @@
     --font-family: 'Tahoma', sans-serif;
 }
 
+*{
+    box-sizing: border-box;
+}
 
 .navbar{
     position:fixed;
@@ -189,6 +192,7 @@ html{
     margin: 0;
     position: relative;
     padding-left: 30px;
+    overflow: hidden;
 }
 
 .timeline::before {
@@ -364,8 +368,7 @@ html{
 
 
 .skills-section ul{
-    padding-left: 20px 0px;
-    margin-bottom: 15px;
+    padding-left: 0;
     color: rgb(85, 85, 85);
     font-family: Open sans;
     font-weight: 500;
