@@ -62,7 +62,6 @@
 }
 
 
-
 header{
     padding-top:0px;
 }
@@ -151,7 +150,7 @@ html{
 .about-section p{
     font-size: 16px;
     color: rgb(85, 85, 85);
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     font-family: Open sans;
     font-weight: 500;
 }
@@ -171,8 +170,8 @@ html{
 
 .education-section{
     width: 100%;
-    padding: 30px 30px;
-    margin: 0;
+    padding: 40px 40px;
+    margin: 0 auto;
     background-color: rgb(222, 222, 240);
     font-family: Tahoma;
     line-height: 1.7;
@@ -269,7 +268,7 @@ html{
 
 .experience-section{
     width: 100%;
-    padding: 40px 20px;
+    padding: 40px 40px;
     margin: 0 auto;
     background-color: rgb(202, 202, 223) ;
     font-family: Tahoma;
@@ -322,12 +321,12 @@ html{
 }
 
 .experience-item ul li {
-  font-size: 16px;
-  color: rgb(85, 85, 85);
-  margin-bottom: 10px;
-  line-height: 1.7;
-  font-family: Open sans;
-  font-weight: 500;
+    font-size: 16px;
+    color: rgb(85, 85, 85);
+    margin-bottom: 10px;
+    line-height: 1.7;
+    font-family: Open sans;
+    font-weight: 500;
 }
 
 
@@ -346,8 +345,8 @@ html{
 
 .skills-section{
     width: 100%;
-    padding: 40px 20px;
-    margin: 0;
+    padding: 40px 40px;
+    margin: 0 auto;
     background-color: rgb(212, 212, 230);
     font-family: Tahoma;
     line-height: 1.7;
@@ -382,52 +381,51 @@ html{
 
 
 .contact-section {
-  text-align: center;
-  padding: 60px 20px;
-  background-color: #ffffff;
-  font-family: Tahoma;
+    text-align: center;
+    width: 100%;
+    padding: 40px 40px;
+    background-color: rgb(255, 255, 255);
+    font-family: Tahoma;
 }
 
 .contact-section h2 {
-  font-size: 39.81px;
-  font-weight: 600;
-  margin-bottom: 20px;
-  color: rgb(24, 26, 132);
+    font-size: 39.81px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: rgb(24, 26, 132);
 }
 
 .contact-section p {
-  font-size: 16px;
-  color: rgb(85, 85, 85);
-  width: 100%;
-  margin: 0 auto 30px auto;
-  font-family: Open sans;
-  font-weight: 500;
+    font-size: 16px;
+    color: rgb(85, 85, 85);
+    margin: 0 auto 30px auto;
+    font-family: Open sans;
+    font-weight: 500;
 }
 
 .contact-section ul {
-  list-style: none;
-  padding: 0;
-  text-align: center;
+    list-style: none;
+    padding: 0;
 }
 
 .contact-section ul li {
-  margin-bottom: 15px;
-  font-size: 16px;
+    margin-bottom: 15px;
+    font-size: 16px;
 }
 
 .contact-section a {
-  color: rgb(24, 26, 132);
-  text-decoration: none;
-  font-weight: 500;
+    color: rgb(24, 26, 132);
+    text-decoration: none;
+    font-weight: 500;
 }
 
 .contact-section a:hover {
-  text-decoration: underline;
+    text-decoration: underline;
 }
 
 .contact-section i {
-  margin-right: 8px;
-  font-size: 16px;
+    margin-right: 8px;
+    font-size: 16px;
   
 }
 
@@ -437,6 +435,7 @@ footer{
     padding: 19px 19px;
     text-align: center;
     font-family: Tahoma;
-    margin: 0;
+    margin: 0 auto;
     font-size: 16px;
+    width: 100%;
 }
